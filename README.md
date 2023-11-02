@@ -17,14 +17,14 @@ efore you begin, make sure you have the following prerequisites installed:
 - Just download the repository.
 - Unzip the folder.
 - Install the dependencies.
-  `npm install``
+  `npm install`
 
 ## Running
 
 - Compile the TypeScript code into JavaScript.
-  `npm run build``
+  `npm run build`
 - Run the application.
-  `npm start``
+  `npm start`
 
 ## Authors
 
